@@ -1,1 +1,1 @@
-# gaussian.elimination
+# Gaussian Elimination
